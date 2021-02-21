@@ -1,0 +1,22 @@
+.flex {
+	display: flex;
+	height: 100%;
+}
+
+.flex .--align-center {
+	align-items: center;
+}
+
+.flex .--justify-center {
+	justify-content: center;
+}
+
+.text-center {
+	width: 100%;
+	text-align: center;
+}
+
+.form-container {
+	width: 400px;
+	margin: auto;
+}
